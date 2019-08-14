@@ -5360,6 +5360,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
+          "Microsoft.AspNetCore.SignalR": "1.1.0",
           "Microsoft.EntityFrameworkCore": "2.2.6",
           "Microsoft.EntityFrameworkCore.Design": "2.2.6",
           "Microsoft.EntityFrameworkCore.InMemory": "2.2.6",
@@ -14728,11 +14729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj",
       "projectName": "FeedMeAPIUnitTests",
-      "projectPath": "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj",
+      "projectPath": "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj",
       "packagesPath": "C:\\Users\\dorae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMeAPIUnitTests\\obj\\",
+      "outputPath": "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMeAPIUnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14751,8 +14752,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMe\\FeedMe.csproj": {
-              "projectPath": "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMe\\FeedMe.csproj"
+            "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMe\\FeedMe.csproj": {
+              "projectPath": "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMe\\FeedMe.csproj"
             }
           }
         }

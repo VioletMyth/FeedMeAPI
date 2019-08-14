@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj": {}
+    "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj": {
+    "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj",
         "projectName": "FeedMeAPIUnitTests",
-        "projectPath": "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj",
+        "projectPath": "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj",
         "packagesPath": "C:\\Users\\dorae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMeAPIUnitTests\\obj\\",
+        "outputPath": "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMeAPIUnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMe\\FeedMe.csproj": {
-                "projectPath": "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMe\\FeedMe.csproj"
+              "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMe\\FeedMe.csproj": {
+                "projectPath": "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMe\\FeedMe.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMe\\FeedMe.csproj": {
+    "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMe\\FeedMe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMe\\FeedMe.csproj",
+        "projectUniqueName": "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMe\\FeedMe.csproj",
         "projectName": "FeedMe",
-        "projectPath": "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMe\\FeedMe.csproj",
+        "projectPath": "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMe\\FeedMe.csproj",
         "packagesPath": "C:\\Users\\dorae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMe\\obj\\",
+        "outputPath": "C:\\Users\\dorae\\Documents\\GitHub\\FeedMeAPI\\FeedMe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -131,6 +131,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

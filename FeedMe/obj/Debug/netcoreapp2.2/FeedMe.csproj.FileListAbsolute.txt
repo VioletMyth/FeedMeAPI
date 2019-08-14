@@ -26,3 +26,17 @@ C:\Users\dorae\OneDrive\FeedMe\FeedMe\obj\Debug\netcoreapp2.2\FeedMe.AssemblyInf
 C:\Users\dorae\OneDrive\FeedMe\FeedMe\obj\Debug\netcoreapp2.2\FeedMe.RazorTargetAssemblyInfo.cache
 C:\Users\dorae\OneDrive\FeedMe\FeedMe\obj\Debug\netcoreapp2.2\FeedMe.dll
 C:\Users\dorae\OneDrive\FeedMe\FeedMe\obj\Debug\netcoreapp2.2\FeedMe.pdb
+C:\Users\dorae\Documents\GitHub\FeedMeAPI\FeedMe\bin\Debug\netcoreapp2.2\FeedMe.deps.json
+C:\Users\dorae\Documents\GitHub\FeedMeAPI\FeedMe\bin\Debug\netcoreapp2.2\FeedMe.runtimeconfig.json
+C:\Users\dorae\Documents\GitHub\FeedMeAPI\FeedMe\bin\Debug\netcoreapp2.2\FeedMe.runtimeconfig.dev.json
+C:\Users\dorae\Documents\GitHub\FeedMeAPI\FeedMe\bin\Debug\netcoreapp2.2\FeedMe.dll
+C:\Users\dorae\Documents\GitHub\FeedMeAPI\FeedMe\bin\Debug\netcoreapp2.2\FeedMe.pdb
+C:\Users\dorae\Documents\GitHub\FeedMeAPI\FeedMe\obj\Debug\netcoreapp2.2\FeedMe.csprojAssemblyReference.cache
+C:\Users\dorae\Documents\GitHub\FeedMeAPI\FeedMe\obj\Debug\netcoreapp2.2\FeedMe.csproj.CoreCompileInputs.cache
+C:\Users\dorae\Documents\GitHub\FeedMeAPI\FeedMe\obj\Debug\netcoreapp2.2\FeedMe.RazorAssemblyInfo.cache
+C:\Users\dorae\Documents\GitHub\FeedMeAPI\FeedMe\obj\Debug\netcoreapp2.2\FeedMe.RazorAssemblyInfo.cs
+C:\Users\dorae\Documents\GitHub\FeedMeAPI\FeedMe\obj\Debug\netcoreapp2.2\FeedMe.AssemblyInfoInputs.cache
+C:\Users\dorae\Documents\GitHub\FeedMeAPI\FeedMe\obj\Debug\netcoreapp2.2\FeedMe.AssemblyInfo.cs
+C:\Users\dorae\Documents\GitHub\FeedMeAPI\FeedMe\obj\Debug\netcoreapp2.2\FeedMe.RazorTargetAssemblyInfo.cache
+C:\Users\dorae\Documents\GitHub\FeedMeAPI\FeedMe\obj\Debug\netcoreapp2.2\FeedMe.dll
+C:\Users\dorae\Documents\GitHub\FeedMeAPI\FeedMe\obj\Debug\netcoreapp2.2\FeedMe.pdb
