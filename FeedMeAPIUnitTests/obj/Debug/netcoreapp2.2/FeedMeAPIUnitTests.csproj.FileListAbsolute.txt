@@ -1,0 +1,17 @@
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\obj\Debug\netcoreapp2.2\FeedMeAPIUnitTests.csprojAssemblyReference.cache
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\obj\Debug\netcoreapp2.2\FeedMeAPIUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\obj\Debug\netcoreapp2.2\FeedMeAPIUnitTests.AssemblyInfoInputs.cache
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\obj\Debug\netcoreapp2.2\FeedMeAPIUnitTests.AssemblyInfo.cs
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\bin\Debug\netcoreapp2.2\FeedMeAPIUnitTests.deps.json
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\bin\Debug\netcoreapp2.2\FeedMeAPIUnitTests.runtimeconfig.json
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\bin\Debug\netcoreapp2.2\FeedMeAPIUnitTests.runtimeconfig.dev.json
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\bin\Debug\netcoreapp2.2\FeedMeAPIUnitTests.dll
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\bin\Debug\netcoreapp2.2\FeedMeAPIUnitTests.pdb
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\bin\Debug\netcoreapp2.2\FeedMe.dll
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\bin\Debug\netcoreapp2.2\FeedMe.pdb
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\obj\Debug\netcoreapp2.2\FeedMeAPIUnitTests.csproj.CopyComplete
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\obj\Debug\netcoreapp2.2\FeedMeAPIUnitTests.dll
+C:\Users\dorae\OneDrive\FeedMe\FeedMeAPIUnitTests\obj\Debug\netcoreapp2.2\FeedMeAPIUnitTests.pdb

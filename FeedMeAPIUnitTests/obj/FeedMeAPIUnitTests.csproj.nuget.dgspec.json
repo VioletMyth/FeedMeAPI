@@ -1,9 +1,89 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMe\\FeedMe.csproj": {}
+    "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj": {}
   },
   "projects": {
+    "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj",
+        "projectName": "FeedMeAPIUnitTests",
+        "projectPath": "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMeAPIUnitTests\\FeedMeAPIUnitTests.csproj",
+        "packagesPath": "C:\\Users\\dorae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMeAPIUnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dorae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMe\\FeedMe.csproj": {
+                "projectPath": "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMe\\FeedMe.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
     "C:\\Users\\dorae\\OneDrive\\FeedMe\\FeedMe\\FeedMe.csproj": {
       "version": "1.0.0",
       "restore": {

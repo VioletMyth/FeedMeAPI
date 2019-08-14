@@ -28,6 +28,7 @@ namespace FeedMe.Controllers
             _configuration = configuration;
         }
 
+
         // GET: api/Details
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Detail>>> GetDetail()
