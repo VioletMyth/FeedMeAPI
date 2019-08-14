@@ -33,6 +33,7 @@ namespace FeedMe
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             var connection = Configuration.GetConnectionString("FeedMeContext");
             services.AddDbContext<FeedMeContext>(options => options.UseSqlServer(connection));
+            services.AddSignalR();
 
             services.AddCors(options =>
             {
@@ -58,6 +59,22 @@ namespace FeedMe
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
+            // Make sure the CORS middleware is ahead of SignalR.
+            app.UseCors(builder =>
+            {
+                builder.WithOrigins("https://feedmefrontend.azurewebsites.net")
+                    .AllowAnyHeader()
+                    .AllowAnyMethod()
+                    .AllowCredentials();
+            });
+
+            // SignalR
+            app.UseFileServer();
+            app.UseSignalR(routes =>
+            {
+                routes.MapHub<SignalrHub>("/hub");
+            });
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
