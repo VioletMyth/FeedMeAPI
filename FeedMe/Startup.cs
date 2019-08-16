@@ -70,10 +70,6 @@ namespace FeedMe
 
             // SignalR
             app.UseFileServer();
-            app.UseSignalR(routes =>
-            {
-                routes.MapHub<SignalrHub>("/hub");
-            });
 
             if (env.IsDevelopment())
             {
